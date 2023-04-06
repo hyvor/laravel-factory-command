@@ -1,3 +1,5 @@
+[WORK IN PROGRESS]
+
 The focus of this library is to provide a simple way to create factories from outside the Laravel application.  For example, in an end-to-end test suite in Cypress or Playwright.
 
 It takes arguments in the JSON format and returns a JSON string of the factory output.
